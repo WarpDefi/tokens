@@ -31,8 +31,8 @@ Token images are stored in the format `<token-address>/logo_24.png` and `<token-
 ```
 
 ## Disclaimer
-Pangolin allows anyone to submit new assets to this repository. 
-However, this does not mean that Pangolin is in direct partnership with any project.
+WarpDefi allows anyone to submit new assets to this repository. 
+However, this does not mean that WarpDefi is in direct partnership with any project.
 
-Pangolin will reject projects that are deemed as a scam or fraudulent after review. 
-Pangolin reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+WarpDefi will reject projects that are deemed as a scam or fraudulent after review. 
+WarpDefi reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
