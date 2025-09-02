@@ -1,6 +1,6 @@
-# Pangolin Token Assets
+# WarpDefi Token Assets
 
-This repository is a comprehensive collection of token assets for pooled tokens on Pangolin.
+This repository is a comprehensive collection of token assets for pooled tokens on WarpDefi.
 
 Token logos are stored according to their address under the `assets/<chain-id>/` directory. 
 Token images are stored in the format `<token-address>/logo_24.png` and `<token-address>/logo_48.png`.
